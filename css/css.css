@@ -1,0 +1,18 @@
+#telalogin {
+    position: absolute;
+    width: 350px;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);    
+    box-shadow: 1px 5px 5px rgb(163, 163, 163);
+
+    
+}
+#fundo{
+    background-color: rgb(228, 228, 228);
+    background-image: url("https://www.xmple.com/wallpaper/blue-gradient-purple-linear-1920x1080-c2-ba55d3-0000cd-a-90-f-14.svg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
